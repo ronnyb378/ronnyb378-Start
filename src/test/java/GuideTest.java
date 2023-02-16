@@ -62,7 +62,7 @@ public class GuideTest {
     }
     /**
      * Like the above test, This test will use the Guide object that already exists, and verify that it works as
-     * expected when running guideMethod("test").
+     * expected when running guideMethod("test")..
      */
     @Test
     public void basicsTest2(){
