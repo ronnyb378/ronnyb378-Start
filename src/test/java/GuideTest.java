@@ -34,7 +34,7 @@ public class GuideTest {
     @Before
     public void setUp(){
         /**
-         * Here we are instantiating an object using the constructor that we've written in the Guide class.
+         * Here we are instantiating an object using thhat we've written in the Guide class.
          * Instantiating the Guide object as such will assign its id to 1, and will allow us to use its methods.
          */
         g = new Guide(1);
